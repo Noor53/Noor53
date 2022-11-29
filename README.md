@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Noor53
-- 👀 I’m interested in solution creating and finding.
+- 👋 Hi, I’m Nooruddin...
+- 👀 I’m interested in solution creating and finding through java technologies...
 
 <!---
 Noor53/Noor53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
